@@ -397,6 +397,10 @@ footer p.rights{
 	margin-bottom: 30px;
 }
 
+footer .logo_footer {
+	width: 120px;
+}
+
 footer p.rights{
 	font-family: 'LatoRegular', 'Helvetica', arial;
 	color: #a6a6a6;
